@@ -60,3 +60,16 @@ function solution(number){
   return sum;
 }
 ```
+
+## Experience : 
+   * Final Project for lesson "Intro to web-development" : [Jewelry shop](https://github.com/NecomaV/Final)
+   * Mobile app written in Kotlin for lesson "Android Development" : [SDU Portal Mobile](https://github.com/Abjik/SDUPortalMobile)
+   * Django project for "BackEnd development Into" : [Online Shop](https://github.com/Abjik/backtest)
+   * My first project : [Asics shop](https://github.com/NecomaV/Mini-project)
+   * My MidTerm Project: [MidTerm Project](https://github.com/NecomaV/MidTemProject) 
+
+***
+## Education 
+  * Bachelor of "Information systems" at SDU (2024 graduate)
+  * Udemy 
+    + JavaScript and React ( In progress... )
