@@ -4,6 +4,7 @@
 
 
  ![](https://github.com/NecomaV/rsschool-cv/blob/gh-pages/rsz_12pss.png)
+ 
 ***
 
 ### Contact Information
