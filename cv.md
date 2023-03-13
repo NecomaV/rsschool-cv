@@ -73,3 +73,12 @@ function solution(number){
   * Bachelor of "Information systems" at SDU (2024 graduate)
   * Udemy 
     + JavaScript and React ( In progress... )
+
+***
+## Language 
+  * English B2 - Upper Intermediate ( IELTS 6.0 ) 
+  * Kazakh C1  - Native
+  * Russian C1 - Native
+  * Turkish A1 - Beginner 
+
+
