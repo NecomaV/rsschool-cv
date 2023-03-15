@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://necomav.github.io/rsschool-cv/cv
+https://necomav.github.io/rsschool-cv/
