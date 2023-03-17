@@ -76,6 +76,10 @@
     display: block;
 }
 
+.first-cont:hover .hide img{
+    display: block;
+}
+
 .trig{
     width: 0;
     height: 0;
