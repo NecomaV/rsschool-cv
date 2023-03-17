@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
 *{
     margin: 0;
     padding: 0;
+    /* outline: 1px solid lime; */
+    font-family: 'Inter', sans-serif;
 }
 
 .main{
@@ -11,29 +14,48 @@
     width: 70%;
 }
 
+.heading{ 
+    margin-top: 60px;
+    padding: 5px 20px 5px 0px;
+    width: 60%;
+}
+
 .accordion-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     border: 1px solid black;
+
 }
 
-.accordion-container .heading{
-    width: 60%;
-}
+
+
 
 .first-cont{
     width: 60%;
-    border-top: 1px solid black;
+    border-top: 2px solid rgb(112, 111, 111);
     font-size: 30px;
     font-weight: 700;
-    padding: 20px;
+    padding: 20px 20px 20px 0px;
     cursor: pointer;
 }
 
 .first-cont p{
-    margin: 20px;
+    margin: 10px 20px 10px 0px;
     color: blue;
+   
+}
+
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fa-solid{
+    color: blue;
+    display: none;
+    transition: .8s ease-in-out;
 }
 
 .hide img{
@@ -44,9 +66,20 @@
 .accordion-container:hover .first-cont p{
     color: black;
 }
-
-.first-cont:hover  .hide img{
+.accordion-container:hover .fa-solid{
+    color: black;
     display: block;
 }
 
 
+.trig:checked ~ .hide img{
+    display: block;
+}
+
+.trig{
+    width: 0;
+    height: 0;
+    appearance: none;
+    display: none;
+    
+}
