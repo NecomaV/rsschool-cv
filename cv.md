@@ -17,7 +17,7 @@
 ***
 ### About me 
 
-I am 21 years old, living in **Almaty** and studying "Information Systems" at university [**SDU**](https://sdu.edu.kz/). Currently learning javascript and have a desire to become a strong web developer. My goal is to find a job as a junior Front-End developer by summer. 
+I am 21 years old, living in **Almaty** and studying "Information Systems" at university [**SDU**](https://sdu.edu.kz/). Currently learning javascript and have a desire to become a strong web developer. 
   ##### My strong sides are: 
         * Quick learning 
         * Hard work 
