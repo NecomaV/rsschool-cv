@@ -17,7 +17,7 @@
 ***
 ### About me 
 
-I am 20 years old, living in **Almaty** and studying "Information Systems" at university [**SDU**](https://sdu.edu.kz/). Currently learning javascript and have a desire to become a strong web developer. My goal is to find a job as a junior Front-End developer by summer. 
+I am 21 years old, living in **Almaty** and studying "Information Systems" at university [**SDU**](https://sdu.edu.kz/). Currently learning javascript and have a desire to become a strong web developer. My goal is to find a job as a junior Front-End developer by summer. 
   ##### My strong sides are: 
         * Quick learning 
         * Hard work 
@@ -28,15 +28,15 @@ I am 20 years old, living in **Almaty** and studying "Information Systems" at un
 ## Skills : 
   * HTML5
   * CSS3
-  * JavaScript ( in progress ) 
+  * JavaScript
   * GitHub
   * InDesign, Photoshop, Illustrator
-  * Java ( basic - mid knowledge )
-  * Python ( basic - mid knowledge ) Django ( basic knowledge ) 
+  * Java
+  * Python, Django 
   * SQLite ( fundamentals )
   * Windows OS , Linux , Centos 8, RedHat
   * AWS ( fundamental level )
-  * Kotlin ( basic level )
+  * Kotlin
 
 ***
 ## Code Example  from [**codewars**](https://www.codewars.com/users/Nekoma) : 
@@ -63,17 +63,17 @@ function solution(number){
 ```
 
 ## Experience : 
-   * Final Project for lesson "Intro to web-development" : [Jewelry shop](https://github.com/NecomaV/Final)
-   * Mobile app written in Kotlin for lesson "Android Development" : [SDU Portal Mobile](https://github.com/Abjik/SDUPortalMobile)
-   * Django project for "BackEnd development Into" : [Online Shop](https://github.com/Abjik/backtest)
+   * Project : [Jewelry shop](https://github.com/NecomaV/Final)
+   * Mobile app written in Kotlin : [SDU Portal Mobile](https://github.com/Abjik/SDUPortalMobile)
+   * Django project : [Online Shop](https://github.com/Abjik/backtest)
    * My first project : [Asics shop](https://github.com/NecomaV/Mini-project)
-   * My MidTerm Project: [MidTerm Project](https://github.com/NecomaV/MidTemProject) 
+   * Real commercial project: worklnd 
 
 ***
 ## Education 
   * Bachelor of "Information systems" at SDU (2024 graduate)
   * Udemy 
-    + JavaScript and React ( In progress... )
+    + JavaScript and React
 
 ***
 ## Language 
